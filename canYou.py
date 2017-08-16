@@ -1,1 +1,1 @@
-Print("Can I save python like this?")
+print("Can I save python like this?")
